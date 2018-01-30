@@ -1,0 +1,6 @@
+orig.*
+*.txt
+!sample/*.txt
+*.pyc
+*.sh
+*.log
