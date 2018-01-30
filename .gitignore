@@ -1,4 +1,5 @@
 orig.*
+*.URL
 *.txt
 !sample/*.txt
 *.pyc
